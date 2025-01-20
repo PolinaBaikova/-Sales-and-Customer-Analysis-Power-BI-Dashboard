@@ -1,12 +1,12 @@
 # Sales-and-Customer-Analysis-Power-BI-Dashboard
 Analysis of sales, customer behavior, and profitability using Power BI to provide interactive insights into order patterns, shipping costs, and regional performance through comprehensive data visualization.
-#Objective
-The objective of this project was to analyze sales and customer data from a retail business to gain actionable insights into order patterns, customer loyalty, profitability, and shipping efficiency across different regions and product categories. By integrating multiple data sources and applying various data processing and visualization techniques, the project aimed to provide a comprehensive dashboard that enables stakeholders to explore key performance metrics and support data-driven decision-making.
+# Objective
+The objective of this project was to analyze sales and customer data from a retail business to gain actionable insights into order patterns, customer loyalty, profitability, and shipping efficiency across different regions and product categories. By applying various data processing and visualization techniques, the project aimed to provide a comprehensive dashboard that enables stakeholders to explore key performance metrics and support data-driven decision-making.
 
-Data Preparation
+# Data Preparation
 The dataset used in this project was sourced from an Excel file containing multiple sheets, including orders, returns, and user information. The data preparation process was carried out in Power BI and involved several key steps to ensure data consistency, accuracy, and usability for analysis.
 
-#Data Consolidation and Cleaning:
+# Data Consolidation and Cleaning:
 
 Two separate order datasets were combined into a single unified dataset to facilitate comprehensive analysis.
 Unnecessary columns were removed to improve data efficiency and relevance.
