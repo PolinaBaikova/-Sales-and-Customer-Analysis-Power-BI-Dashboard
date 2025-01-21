@@ -13,11 +13,15 @@ Data loading optimization techniques were applied by excluding non-essential que
 
 Sales page contains table visualization created to present total sales for different product categories and subcategories. Conditional formatting was introduced to the Sales column to highlight positive and negative profit trends using color coding.
 
-<img src="images/Sales.png" alt="Sales" width="400" height="400">
+<img src="images/Sales.png" alt="Sales" width="500" height="400">
 
 Next dashboard page called Shipping Cost features a bubble chart to visualize the relationship between total sales and average shipping costs across product categories and shipment modes, with profit represented by bubble size. The chart was enhanced with differentiated colors and shapes for various shipping modes, and animations were added to observe trends over time. A horizontal bar chart allows users to analyze average shipping costs across product categories, customer segments, or order priorities, providing an interactive experience through parameter-driven filtering.
 
+<img src="images/tooltip.png" alt="Shipping Cost" width="700" height="400">
+
 A Profit dashboard page allows the user to observe data for different customer segments and provids a view of profitability across different dimensions. A matrix visualization was created to showcase total profits by product category and shipment mode, sorted in descending order to highlight key revenue drivers. The matrix allows users to expand and drill down through hierarchical levels. A geographic map visualization was introduced to display total profit distribution across states, utilizing color gradients to depict variations in profitability. Additionally, a column chart was added to track total profit and average shipping costs over time, enabling users to drill down from years to months.
+
+<img src="images/profit.png" alt="Profit" width="700" height="400">
 
 To further enhance interactivity, additional pages such as Tooltip and Drillthrough were implemented. The Tooltip page featured a column chart displaying average shipping costs by product sub-category, which could be accessed by hovering over visual elements in other pages. The Drillthrough page enabled users to click on specific product categories and navigate to a dedicated view displaying detailed cost breakdowns and key metrics. Filters were applied across all pages to exclude records with unspecified order priorities, ensuring cleaner and more accurate analysis.
 
